@@ -1,0 +1,1 @@
+﻿Set-ItemProperty "HKLM:\SYSTEM\CurrentControlSet\services\USBSTOR" -name Start -Value 4
